@@ -1,0 +1,11 @@
+title: Java Collections Course
+language: English
+summary: |-
+  Java course.
+  Created: Jul 18, 2021, 8:46:44 PM.
+programming_language: Java
+content:
+- Lists
+- Sets
+- Maps
+- Queues
